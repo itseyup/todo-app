@@ -17,6 +17,7 @@ void main() async {
     titleBarStyle: TitleBarStyle.hidden,
     center: true, // Center the window on startup
     title: 'Rise To Do App', // Set window title
+    alwaysOnTop: true, // Add this line to keep window always on top
   );
   
   await windowManager.waitUntilReadyToShow(windowOptions, () async {
