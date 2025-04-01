@@ -47,7 +47,6 @@ Windows için minimalist, modern bir yapılacaklar listesi uygulaması. Flutter 
 2. Tüm dosyaları çıkartın
 3. ToDoApp.exe'yi çalıştırın
 
-<<<<<<< HEAD
 =======
 ### Kaynak Koddan Derleme
 1. Flutter SDK'yı kurun ve Windows geliştirme ortamını hazırlayın
