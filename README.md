@@ -70,7 +70,6 @@ Windows için minimalist, modern bir yapılacaklar listesi uygulaması. Flutter 
 ```bash
 git clone https://github.com/itseyup/rise-todo-app.git
  ```
-```
 
 3. Proje dizinine gidin ve bağımlılıkları yükleyin:
 ```bash
