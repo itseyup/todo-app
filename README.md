@@ -17,6 +17,7 @@ A minimalist, modern To Do list application for Windows, developed with Flutter 
 - 🔽 Automatically move completed tasks to bottom
 - 🚀 Start with Windows option
 - 💾 Automatic save functionality
+- 📌 Always on top functionality
 
 ### Installation
 1. Download the latest release
@@ -60,6 +61,7 @@ Windows için minimalist, modern bir yapılacaklar listesi uygulaması. Flutter 
 - 🔽 Tamamlanan görevleri otomatik olarak alta taşıma
 - 🚀 Windows ile başlatma seçeneği
 - 💾 Otomatik kaydetme özelliği
+- 📌 Her zaman üstte kalma özelliği
 
 ### Kurulum
 1. En son sürümü indirin
