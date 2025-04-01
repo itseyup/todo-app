@@ -1,6 +1,5 @@
 # Rise To Do App
 
-[English](#english) | [Türkçe](#türkçe)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](#english)
 [![tr](https://img.shields.io/badge/lang-tr-green.svg)](#türkçe)
 
