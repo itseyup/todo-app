@@ -1,6 +1,8 @@
 # Rise To Do App
 
-[English](#english) | [Türkçe](#türkçe)
+## Language Options | Dil Seçenekleri
+[![en](https://img.shields.io/badge/lang-en-red.svg)](#english)
+[![tr](https://img.shields.io/badge/lang-tr-green.svg)](#türkçe)
 
 ## English
 
@@ -45,5 +47,28 @@ Windows için minimalist, modern bir yapılacaklar listesi uygulaması. Flutter 
 2. Tüm dosyaları çıkartın
 3. ToDoApp.exe'yi çalıştırın
 
+<<<<<<< HEAD
+=======
+### Kaynak Koddan Derleme
+1. Flutter SDK'yı kurun ve Windows geliştirme ortamını hazırlayın
+2. Depoyu klonlayın:
+```bash
+git clone https://github.com/itseyup/rise-todo-app.git
+ ```
+
+3. Proje dizinine gidin ve bağımlılıkları yükleyin:
+```bash
+cd rise-todo-app
+flutter pub get
+ ```
+
+4. Windows için derleyin:
+```bash
+flutter build windows --release
+ ```
+
+5. Çalıştırılabilir dosya `build/windows/x64/runner/Release/` dizininde oluşturulacaktır
+
+>>>>>>> 73c1f44c23a96fe6b158995c043aa02479a3ab80
 ### Geliştirme
 Bu proje Flutter kullanılarak geliştirilmiş ve tamamen yapay zeka yardımıyla oluşturulmuştur. Kullanıcı arayüzü tasarımı ve işlevselliği yapay zeka destekli geliştirme ile optimize edilmiştir.
