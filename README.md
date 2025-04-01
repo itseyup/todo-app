@@ -1,6 +1,6 @@
 # Rise To Do App
 
-# Language Options | Dil Seçenekleri
+## Language Options | Dil Seçenekleri
 [![en](https://img.shields.io/badge/lang-en-red.svg)](#english)
 [![tr](https://img.shields.io/badge/lang-tr-green.svg)](#türkçe)
 
