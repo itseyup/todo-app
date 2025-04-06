@@ -1,5 +1,5 @@
 # Rise To Do App
-
+![ScreenShot](/screenshots/main-screen-tr.png/?raw=true "Main Screen") ![ScreenShot](/screenshots/settings-screen-tr.png/?raw=true "Settings Screen")
 ## Language Options | Dil Seçenekleri
 [![en](https://img.shields.io/badge/lang-en-red.svg)](#english)
 [![tr](https://img.shields.io/badge/lang-tr-green.svg)](#türkçe)
